@@ -1,0 +1,147 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.nav {
+    justify-content: center;
+
+}
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 600;
+
+}
+a:hover {
+    text-decoration: none;
+}
+li:hover {
+    color: #ff2400;
+    
+}
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: -2px -5px 20px 0px;
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+   
+}
+li {
+    color: #6c757d;
+}
+.banner-image {
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 301px;
+}
+.big-text {
+    font-size: 60px;
+    text-align: center;
+    padding-top: 360px;
+    font-weight: bold;
+    
+}
+.p-1 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.orange-button {
+    width: 170px;
+    border-radius: 30px;
+    border-style: inset;
+    border-width: 1px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+    margin: auto;
+    font-weight: bold;
+    margin-top: 20px;
+}
+ .orange-button:hover{
+    background-color: #ff2400d9;
+     color: white;
+}
+.text-banner {
+    background-color: #ff2400;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.p-2 {
+    color: white;
+    font-weight: 500;
+}
+.white-button {
+    background-color: white;
+    color: #212529;
+    border-radius: 20px;
+    width: 150px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+.white-button:hover {
+    background-color: #e0e0e0;
+}
+.services {
+    text-align: center;
+    padding-top: 150px;
+    max-height: 553px;
+}
+.big-text-3 {
+    margin-bottom: 45px; 
+}
+.p-3 {
+    color: #6c757d;
+    padding-top: 100px;
+    margin: 0px;
+    width: 265px;
+    margin-bottom: 150px;
+    font-weight: 370;
+
+}
+.big-text-4 {
+    margin: 0px;
+    font-size: 40px;
+    padding-bottom: 10px
+}
+.footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-weight: 450;
+    color: #ffffff;
+    background-color: #ff2400;
+    font-size: 20px
+}
+.images {
+    width: 100%;
+    height: 400px
+}
+.fas {
+    color: #ff2400;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+.fab {
+    color: #ff2400;
+    font-size: 80px
+}
+.fab:hover {
+    font-size: 85px;
+    transform: scale(1.5)
+}
+.git {
+    
+}
